@@ -1,0 +1,6 @@
+[pyrogram]
+API_ID=
+API_HASH=
+BOT_TOKEN=
+API_URL=http://127.0.0.1:7860
+admins = [your-tg-id-here]

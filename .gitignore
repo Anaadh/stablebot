@@ -1,0 +1,6 @@
+.idea/
+venv/
+config.ini
+*.session*
+outputs/
+user_settings.db
